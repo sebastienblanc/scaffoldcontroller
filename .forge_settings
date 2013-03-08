@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<configuration>
+<rootpath>/rest</rootpath>
+<org>
+<jboss>
+<forge>
+<scaffold>
+<html5>
+<Html5Scaffold_targetDir>/</Html5Scaffold_targetDir>
+</html5>
+</scaffold>
+</forge>
+</jboss>
+</org>
+</configuration>
